@@ -5,7 +5,7 @@ const Body = Matter.Body;
 const Constraint = Matter.Constraint
 var polygon,polyImg;
 function preload(){
-  polyImg = loadImage("images/polygon.png")
+  polyImg = loadImage("polygon.png")
 }
 function setup() {
 
